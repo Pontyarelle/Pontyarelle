@@ -12,8 +12,8 @@
   <img align="center" alt="Ponty-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Ponty-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ponty-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Ponty-pic" height="240" style="border-radius:50px;" src="https://i.picasion.com/pic92/a24b694a27ac47e9263d1b6013843c6d.gif">
   
+  <img align="right" alt="Ponty-pic" height="240" style="border-radius:50px;" src="https://i.picasion.com/pic92/d12a44de4d1cdbf40736d401bffa7fa4.gif">
 </div>         
 
 <div style="display: inline_block"><br>
