@@ -1,7 +1,7 @@
 ## Hello, i'm Pontyarelle Pacheco 🖐
 
 <li>About me:</li>
-   🎓👨‍🎓 I'm a Full Stack Developer Jr from Brazil, who loves open source and currently working at FORD on CATMAP project. 
+   🎓👨‍🎓 I'm a Full Stack Developer Jr from Brazil, who loves open source and currently working at FORD. 
    I mainly code in TypeScript and Java. I love develop with modern web frameworks like Angular, React and React Native. 
    I'm always learning and looking for new challenges.
 
