@@ -1,4 +1,18 @@
-## Hello, i'm Pontyarelle Pacheco 
+## Hello, i'm Pontyarelle Pacheco 🖐
+
+<li>About me:</li>
+   🎓👨‍🎓 I'm a Full Stack Developer Jr from Brazil, who loves open source and currently working at FORD on CATMAP project. 
+   I mainly code in TypeScript and Java. I love develop with modern web frameworks like Angular, React and React Native. 
+   I'm always learning and looking for new challenges.
+
+<p></p>
+<li>Hobbies:</li>
+   🎮 - Games <br>
+   🎸 - Guitar <br>
+   🥋 - Karate <br>
+   
+ ##
+ 
 <div align="center">
   <a href="https://github.com/pontyarelle">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pontyarelle&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
