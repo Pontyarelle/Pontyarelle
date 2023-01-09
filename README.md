@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Full Stack Jr developer from Brazil</h3>
    
 <li>About me:</li>
-   🎓👨‍🎓 I'm a Full Stack Developer Jr from Brazil, who loves open source and currently working at FORD. 
+   🎓👨‍🎓 Currently working at FORD. 
    I mainly code in TypeScript and Java. I love develop with modern web frameworks like Angular, React and React Native. 
    I'm always learning and looking for new challenges.
 
@@ -64,6 +64,6 @@
   
 <div>
    <h3 align="left">Support:</h3>
-   <p><a href="https://www.buymeacoffee.com/pontyarelle"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"       alt="pontyarelle" /></a></p><br><br>
+   <p><a href="https://www.buymeacoffee.com/pontyarelle"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"       alt="pontyarelle" /></a></p><br><br><br>
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=pontyarelle&label=Profile%20views&color=0e75b6&style=flat" alt="pontyarelle" /></p>
 </div>
