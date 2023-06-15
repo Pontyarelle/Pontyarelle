@@ -1,7 +1,7 @@
 ##
 
 <h1 align="center">Hi 👋, I'm Pontyarelle</h1>
-<h3 align="center">A passionate Full Stack Jr developer from Brazil</h3>
+<h3 align="center">A passionate Full Stack developer from Brazil</h3>
    
 <li>About me:</li>
    🎓👨‍🎓 Currently working at FORD. 
