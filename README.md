@@ -4,7 +4,6 @@
 <h3 align="center">A passionate Full Stack developer from Brazil</h3>
    
 <li>About me:</li>
-   🎓👨‍🎓 Currently working at FORD. 
    I mainly code in TypeScript and Java. I love develop with modern web frameworks like Angular, React and React Native. 
    I'm always learning and looking for new challenges.
 
