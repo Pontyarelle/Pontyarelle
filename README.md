@@ -8,7 +8,7 @@
    I'm always learning and looking for new challenges.
 
 <p></p>
-<li>Hobbies:</li>
+<li>My Hobbies:</li>
    🎮 - Games <br>
    🎸 - Guitar <br>
    🥋 - Karate <br>
